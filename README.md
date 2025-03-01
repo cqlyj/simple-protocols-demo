@@ -15,8 +15,9 @@ This repository does not contain any code but acts as a knowledge hub, curating 
 | Chainlink Log Trigger Automation                       | Simple chainlink automation log triggered demo                        | Chainlink             | [Link](https://github.com/cqlyj/simple-chainlink-automation) |
 | Chainlink Functions                                    | Simple chainlink function calling blockscout apis demo                | Chainlink, Blockscout | [Link](https://github.com/cqlyj/simple-chainlink-function)   |
 | Chainlink Cross-Chain Interoperability Protocol (CCIP) | Simple chainlink automation ccip token transfer demo                  | Chainlink             | [Link](https://github.com/cqlyj/simple-chainlink-ccip)       |
-| Permit2                                                | Simple Permit2-based bank contract that demonstrate how Permit2 works | Permit2               | [Link](https://github.com/cqlyj/simple-permit2-demo)         |
 | ERC-6551                                               | Simple ERC6551 Standard Walk-through Demo                             | ERC-6551              | [Link](https://github.com/cqlyj/simple-tba-erc6551)          |
+| Multicall                                              | Simple Multicall Demo                                                 | Multicall             | [Link](https://github.com/cqlyj/simple-multicall-demo)       |
+| Permit2                                                | Simple Permit2-based bank contract that demonstrate how Permit2 works | Permit2               | [Link](https://github.com/cqlyj/simple-permit2-demo)         |
 
 ## Contribution
 
