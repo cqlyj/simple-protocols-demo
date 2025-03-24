@@ -19,6 +19,7 @@ This repository does not contain any code but acts as a knowledge hub, curating 
 | ERC-6551                                               | Simple ERC6551 Standard Walk-through Demo                             | ERC-6551                            | [Link](https://github.com/cqlyj/simple-tba-erc6551)          |
 | Multicall                                              | Simple Multicall Demo                                                 | Multicall                           | [Link](https://github.com/cqlyj/simple-multicall-demo)       |
 | Permit2                                                | Simple Permit2-based bank contract that demonstrate how Permit2 works | Permit2                             | [Link](https://github.com/cqlyj/simple-permit2-demo)         |
+| Proxy Pattern                                          | Simple Proxy Wallet                                                   | Proxy Pattern                       | [Link](https://github.com/cqlyj/simple-proxy-wallet)         |
 
 ## Contribution
 
