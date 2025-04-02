@@ -21,6 +21,7 @@ This repository does not contain any code but acts as a knowledge hub, curating 
 | Multicall                                              | Simple Multicall Demo                                                 | Multicall                           | [Link](https://github.com/cqlyj/simple-multicall-demo)       |
 | Permit2                                                | Simple Permit2-based bank contract that demonstrate how Permit2 works | Permit2                             | [Link](https://github.com/cqlyj/simple-permit2-demo)         |
 | Proxy Pattern                                          | Simple Proxy Wallet                                                   | Proxy Pattern                       | [Link](https://github.com/cqlyj/simple-proxy-wallet)         |
+| Self                                                   | Verify your Identity with Self                                        | Self passport verification          | [Link](https://github.com/cqlyj/simple-self)                 |
 | Uniswap V4 Hooks                                       | Demo of Uniswap V4 Hooks implementation                               | Uniswap V4 Hooks                    | [Link](https://github.com/cqlyj/simple-uniswap-swap-hooks)   |
 
 ## Contribution
